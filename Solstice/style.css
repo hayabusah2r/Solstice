@@ -1,0 +1,37 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Courier New', Courier, monospace;
+	background: #242f3f;
+	scroll-behavior: smooth;
+}
+body i{
+	padding-top: 25px;
+	color: white;
+	font-size: 50px;
+}
+body p{
+	color: white;
+	font-size: 17px;
+	text-align: center;
+}
+
+.song-name h2{
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: .5px;
+}
+footer{
+	color: white;
+	font-size: 10px;
+}
+footer a{
+	color: white;
+	font-size: 20px;
+	transition: 0.25s;
+}
+footer a:hover{
+	color: yellowgreen;
+}
+
